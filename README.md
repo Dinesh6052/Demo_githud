@@ -1,3 +1,3 @@
 this is my first githud file.
 <br>
-dinesh patil
+Dinesh Pail (Computer gineering)
